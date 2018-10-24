@@ -1,4 +1,4 @@
-Hyperapp boilerplate app using Parcel
+# Hyperapp boilerplate app using Parcel
 
 To get started:
 
